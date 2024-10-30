@@ -1,1 +1,1 @@
-write-host "test"
+Function write-test {write-host "test"}
