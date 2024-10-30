@@ -1,1 +1,1 @@
-test
+write-host "test"
